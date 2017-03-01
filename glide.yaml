@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/valyala/fasthttp
+  version: v20160617
+  subpackages:
+  - expvarhandler

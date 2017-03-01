@@ -1,0 +1,19 @@
+hash: ce4382bc88c7ad342ac0bc406c7149f962e62da63d2672939da306218782e0c4
+updated: 2017-03-01T10:22:06.647337654-06:00
+imports:
+- name: github.com/klauspost/compress
+  version: 14c9a76e3c95e47f8ccce949bba2c1101a8b85e6
+  subpackages:
+  - flate
+  - gzip
+  - zlib
+- name: github.com/klauspost/cpuid
+  version: 09cded8978dc9e80714c4d85b0322337b0a1e5e0
+- name: github.com/klauspost/crc32
+  version: 1bab8b35b6bb565f92cbc97939610af9369f942a
+- name: github.com/valyala/fasthttp
+  version: d42167fd04f636e20b005e9934159e95454233c7
+  subpackages:
+  - expvarhandler
+  - fasthttputil
+testImports: []
